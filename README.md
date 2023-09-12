@@ -5,6 +5,7 @@
 - 📫 How to reach me: well... don't they have private messages here? No? Well, you can comment on this yes? I dunno. I might not answer in time, though. 
 
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ee186bb128dce3cb8baf17?variant=light&roadmaps=full-stack%2Cnodejs%2Cmongodb%2Cjavascript)](https://roadmap.sh)
 
 <!---
 051W/051W is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
