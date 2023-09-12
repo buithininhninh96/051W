@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Misoko, aka TSL, aka Bui Thi Ninh Ninh, aka ClatteringJade.
-- 👀 I’m interested in dipping my finger into everyone's pie. Hide yo pies if you wanna, but I think there's too many pies in my sight atm.
-- 🌱 I’m currently learning Python, French, Vietnamese, Mandarin, cardistry, 
-- 💞️ I’m looking to collaborate on anything really. I'm unofficially experienced in digital illustration, photo-manipulation, editing, ghostwriting, programming, tutoring, mediating, and most importantly, meme gathering.
-- 📫 How to reach me: well... don't they have private messages here? No? Well, you can comment on this yes? I dunno. I might not answer in time, though. 
+👋 Hi, I’m Misoko, aka TSL, aka Bui Thi Ninh Ninh, aka ClatteringJade.
+👀 I’m interested in dipping my finger into everyone's pie. Hide yo pies if you wanna, but I think there's too many pies in my sight atm.
+🌱 I’m currently learning Python, French, Vietnamese, Mandarin, cardistry, 
+💞️ I’m looking to collaborate on anything really. I'm unofficially experienced in digital illustration, photo-manipulation, editing, ghostwriting, programming, tutoring, mediating, and most importantly, meme gathering.
+📫 How to reach me:
+- email: btnn.tsl.mfukumoto@gmail.com
 
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ee186bb128dce3cb8baf17?variant=light&roadmaps=full-stack%2Cnodejs%2Cmongodb%2Cjavascript)](https://roadmap.sh)
