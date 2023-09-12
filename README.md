@@ -1,9 +1,14 @@
-👋 Hi, I’m Misoko, aka TSL, aka Bui Thi Ninh Ninh, aka ClatteringJade.
-👀 I’m interested in dipping my finger into everyone's pie. Hide yo pies if you wanna, but I think there's too many pies in my sight atm.
-🌱 I’m currently learning Python, French, Vietnamese, Mandarin, cardistry, 
-💞️ I’m looking to collaborate on anything really. I'm unofficially experienced in digital illustration, photo-manipulation, editing, ghostwriting, programming, tutoring, mediating, and most importantly, meme gathering.
+Greetings and salutations! I am Bui Thi Ninh Ninh, but sometimes I go by Misoko or Ling.
+
+My hobbies and interests are vast and plentiful. Currently, I am juggling between teaching and programming. I seldomly produce digital illustrations.
+
+At the moment, I am embarking on a journey to further my skills as a full-stack MERN developer.
+
+I am open to collaborations, although I may have to be picky in my selections. I've experiences in digital illustration, photo-manipulation, editing, ghostwriting, programming, tutoring, mediating, and most importantly, research.
+
 📫 How to reach me:
 - email: btnn.tsl.mfukumoto@gmail.com
+- _(link-in-bio coming soon)_
 
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ee186bb128dce3cb8baf17?variant=light&roadmaps=full-stack%2Cnodejs%2Cmongodb%2Cjavascript)](https://roadmap.sh)
